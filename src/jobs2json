@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Développeur Vue Senior",
+    "type": "Temps plein",
+    "description": "Nous recherchons un développeur front-end talentueux pour rejoindre notre équipe à Boston, MA. Le candidat idéal aura de solides compétences en HTML, CSS et JavaScript, avec une expérience de travail avec des frameworks JavaScript modernes tels que Vue ou Angular.",
+    "location": "Boston, MA",
+    "salary": "70K - 80K euros",
+    "company": {
+      "name": "Solutions NewTek",
+      "description": "NewTek Solutions est une entreprise technologique de premier plan spécialisée dans le développement Web et les solutions numériques. Nous sommes fiers de fournir des produits et des services de haute qualité à nos clients tout en favorisant un environnement de travail collaboratif et innovant.",
+      "contactEmail": "contact@teksolutions.com",
+      "contactPhone": "555-555-5555"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Ingénieur Front-End (Vue)",
+    "type": "Temps plein",
+    "description": "Rejoignez notre équipe en tant que développeur front-end dans la ville ensoleillée de Miami, en Floride. Nous recherchons une personne motivée et passionnée par la création d'applications Web esthétiques et réactives. Une expérience des principes de conception UI/UX et une grande attention aux détails sont hautement souhaitables.",
+    "location": "Miami, FL",
+    "salary": "70K - 80K euros",
+    "company": {
+      "name": "Veneer Solutions",
+      "description": "Veneer Solutions est une agence créative spécialisée dans la conception et le développement numériques. Notre équipe s'engage à repousser les limites de la créativité et de l'innovation pour offrir des résultats exceptionnels à nos clients.",
+      "contactEmail": "contact@loremipsum.com",
+      "contactPhone": "555-555-5555"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Développeur Vue.js",
+    "type": "Temps plein",
+    "description": "Êtes-vous passionné par le développement front-end ? Rejoignez notre équipe à Brooklyn, NY, et travaillez sur des projets passionnants qui font la différence. Nous offrons une rémunération compétitive et un environnement de travail collaboratif où vos idées sont valorisées.",
+    "location": "Brooklyn, NY",
+    "salary": "70K - 80K euros",
+    "company": {
+      "name": "Dolor Cloud",
+      "description": "Dolor Cloud est une entreprise technologique leader spécialisée dans les solutions numériques pour les entreprises de toutes tailles. Avec un accent sur l'innovation et la satisfaction client, nous nous engageons à fournir des produits et services à la pointe de la technologie.",
+      "contactEmail": "contact@dolorsitamet.com",
+      "contactPhone": "555-555-5555"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Développeur Front-End Vue",
+    "type": "Temps partiel",
+    "description": "Rejoignez notre équipe en tant que développeur front-end à temps partiel dans la magnifique ville de Phoenix, AZ. Nous recherchons une personne motivée ayant une passion pour la création d'expériences utilisateur engageantes. Ce poste offre des horaires flexibles et la possibilité de travailler à distance.",
+    "location": "Phoenix, AZ",
+    "salary": "60K - 70K euros",
+    "company": {
+      "name": "Alpha Elite",
+      "description": "Alpha Elite est une startup dynamique spécialisée dans le marketing numérique et le développement web. Nous sommes engagés à promouvoir un environnement de travail diversifié et inclusif où la créativité et l'innovation prospèrent.",
+      "contactEmail": "contact@adipisicingelit.com",
+      "contactPhone": "555-555-5555"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Développeur Full Stack Vue",
+    "type": "Temps plein",
+    "description": "Opportunité excitante pour un développeur front-end à temps plein dans la dynamique ville d'Atlanta, GA. Nous recherchons une personne talentueuse et passionnée par la création d'applications Web élégantes et évolutives. Rejoignez notre équipe et faites la différence !",
+    "location": "Atlanta, GA",
+    "salary": "90K - 100K euros",
+    "company": {
+      "name": "Browning Technologies",
+      "description": "Browning Technologies est une entreprise technologique en pleine croissance spécialisée dans les solutions de commerce électronique. Nous offrons un environnement de travail dynamique et collaboratif où les employés sont encouragés à être créatifs et innovants.",
+      "contactEmail": "contact@consecteturadipisicing.com",
+      "contactPhone": "555-555-5555"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Développeur Vue Native",
+    "type": "Temps plein",
+    "description": "Rejoignez notre équipe en tant que développeur front-end dans la magnifique ville de Portland, OR. Nous recherchons une personne compétente et enthousiaste pour nous aider à créer des solutions web innovantes. Salaire compétitif et excellent package d'avantages disponibles.",
+    "location": "Portland, OR",
+    "salary": "100K - 110K euros",
+    "company": {
+      "name": "Port Solutions INC",
+      "description": "Port Solutions est une entreprise technologique de premier plan spécialisée dans le développement de logiciels et le marketing numérique. Nous nous engageons à offrir à nos clients des solutions de pointe et à nos employés un environnement de travail stimulant et gratifiant.",
+      "contactEmail": "contact@ipsumlorem.com",
+      "contactPhone": "555-555-5555"
+    }
+  }
+]

@@ -3,12 +3,12 @@
     defineProps({
         bg: {
             type: String,
-            default: 'bg-gray-100'
+            default: 'bg-[#090a0a]'
         }
     })
 </script>
 <template>
-    <div :class="`${bg} p-6 rounded-lg shadow-md`">
+    <div :class="`${bg} ring ring-green-900 ring-1  p-6 rounded-lg shadow-md`">
         <slot></slot>
     </div>
 </template>

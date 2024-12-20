@@ -6,8 +6,8 @@
 
 <template>
   <Hero 
-    title="Devenez un Développeur VueJS"
-    subtitle="Trouvez l'emploi vue qui correspond à vos compétences et à vos besoins"
+    title="Devenez Développeur VueJS"
+    subtitle="Trouvez l'emploi qui correspond à vos compétences et à vos besoins."
   />
   <HomeCards />
   <JobListings :limit="3" :showButton="true"/>

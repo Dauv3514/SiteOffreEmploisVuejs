@@ -8,16 +8,3 @@
   <Navbar />
   <RouterView />
 </template>
-
-<!-- <script>
-onMounted (async () => {
-  try {
-
-  } catch(error) {
-    
-  }
-})
-</script>
-
-<style scoped>
-</style> -->

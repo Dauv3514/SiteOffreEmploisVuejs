@@ -5,34 +5,32 @@ import { RouterLink } from 'vue-router';
 
 <template>
      <!-- Developers and Employers -->
-     <section class="py-4">
-      <div class="container-xl lg:container m-auto">
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 p-4 rounded-lg">
+      <div class="container-xl m-auto bg-black border border-black">
+        <div class="grid grid-cols-1 md:grid-cols-2 w-3/4 mx-auto gap-4 p-2 rounded-lg">
           <Card>
-            <h2 class="text-2xl font-bold">Pour les développeurs</h2>
-            <p class="mt-2 mb-4">
-                Parcourez nos offres d'emploi Vue et démarrez votre carrière dès aujourd'hui
+            <h2 class="text-2xl font-bold text-white">Pour les développeurs</h2>
+            <p class="mt-2 mb-4 text-white">
+                Parcourez nos offres d'emplois et démarrez votre carrière dès aujourd'hui
             </p>
             <RouterLink
               to="/jobs"
-              class="inline-block bg-black text-white rounded-lg px-4 py-2 hover:bg-gray-700"
+              class="inline-block bg-[#e5f9e9] text-black rounded-lg px-4 py-2 hover:bg-gray-100"
             >
-              Parcourez les offres d'emplois.
+              Parcourez les offres d'emplois
             </RouterLink>
             </Card>
-            <Card bg="bg-green-100">
+            <Card bg="bg-[#e5f9e9]">
                 <h2 class="text-2xl font-bold">Pour les employeurs</h2>
                 <p class="mt-2 mb-4">
-                    Répertoriez votre travail pour trouver le développeur idéal pour le poste
+                  Publiez votre offre d'emploi pour attirer le développeur idéal pour le poste
                 </p>
                 <RouterLink
-                    to="/jobs/ajouter"
-                    class="inline-block bg-green-500 text-white rounded-lg px-4 py-2 hover:bg-green-600"
-                    >
+                    to="/jobs/add"
+                    class="inline-block bg-green-700 text-white rounded-lg px-4 py-2 hover:bg-green-600"
+                >
                     Ajouter un Job
                 </RouterLink>
             </Card>
         </div>
       </div>
-    </section>
 </template>
