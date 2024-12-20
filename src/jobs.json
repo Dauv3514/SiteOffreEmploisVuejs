@@ -83,6 +83,90 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "7",
+      "title": "Développeur VueJS Senior",
+      "type": "Temps plein",
+      "description": "Nous recherchons un développeur Vue.js senior pour rejoindre notre équipe à Paris. Le candidat idéal aura une solide expérience en développement Vue.js, ainsi qu'une bonne maîtrise de JavaScript, HTML et CSS. Vous serez responsable de la création et de la maintenance d'applications complexes et réactives.",
+      "location": "Paris, France",
+      "salary": "80K - 90K euros",
+      "company": {
+        "name": "TechVision",
+        "description": "TechVision est une entreprise de développement technologique à la pointe de l'innovation, spécialisée dans la création d'applications web et mobiles pour des clients internationaux.",
+        "contactEmail": "contact@techvision.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Développeur Vue.js Junior",
+      "type": "Temps plein",
+      "description": "Nous recherchons un développeur Vue.js junior pour rejoindre notre équipe dynamique à Lyon. Vous travaillerez sur des projets passionnants dans une entreprise innovante. Une bonne connaissance de Vue.js et des concepts de développement front-end est requise, ainsi que la volonté d'apprendre et d'évoluer dans un environnement collaboratif.",
+      "location": "Lyon, France",
+      "salary": "35K - 45K euros",
+      "company": {
+        "name": "DevCore",
+        "description": "DevCore est une société de développement web en pleine croissance, offrant des solutions numériques innovantes aux entreprises de tous secteurs.",
+        "contactEmail": "contact@devcore.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Développeur Vue.js Expérimenté",
+      "type": "Temps plein",
+      "description": "Rejoignez notre équipe en tant que développeur Vue.js expérimenté pour travailler sur des applications à grande échelle à Toulouse. Vous aurez l'occasion de travailler sur des projets complexes et d'intégrer les meilleures pratiques de développement front-end. Une solide expérience avec Vue.js et les outils modernes est requise.",
+      "location": "Toulouse, France",
+      "salary": "60K - 75K euros",
+      "company": {
+        "name": "Innovative Devs",
+        "description": "Innovative Devs est une société de développement spécialisée dans la création de solutions logicielles innovantes, offrant des services de qualité supérieure à ses clients internationaux.",
+        "contactEmail": "contact@innovative-devs.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Développeur VueJS Junior",
+      "type": "Temps plein",
+      "description": "Rejoignez notre équipe à Barcelone en tant que développeur VueJS junior. Vous travaillerez sur des projets web de grande envergure et apprendrez des experts VueJS dans un environnement innovant et collaboratif.",
+      "location": "Barcelone, Espagne",
+      "salary": "45K - 55K euros",
+      "company": {
+        "name": "WebCraft",
+        "description": "WebCraft est une entreprise innovante spécialisée dans le développement web, avec un accent particulier sur la création de solutions efficaces pour les entreprises internationales.",
+        "contactEmail": "contact@webcraft.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "11",
+      "title": "Développeur VueJS Expert",
+      "type": "Temps plein",
+      "description": "Nous recherchons un développeur VueJS expert pour rejoindre notre équipe à Berlin. Vous serez responsable de la création d'architectures de solutions complexes, de l'intégration des meilleures pratiques de développement, et de la gestion de projets en utilisant VueJS.",
+      "location": "Berlin, Allemagne",
+      "salary": "95K - 105K euros",
+      "company": {
+        "name": "DevsTech",
+        "description": "DevsTech est une entreprise en pleine expansion spécialisée dans les technologies web avancées et les solutions personnalisées pour des clients du secteur technologique.",
+        "contactEmail": "contact@devstech.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "12",
+      "title": "Développeur VueJS à Distance",
+      "type": "Télétravail",
+      "description": "Nous recherchons un développeur VueJS talentueux pour un poste à distance. Vous serez responsable de l'architecture, du développement et de l'amélioration continue des applications web en utilisant VueJS, dans un environnement de télétravail flexible.",
+      "location": "Télétravail",
+      "salary": "80K - 90K euros",
+      "company": {
+        "name": "Global Devs",
+        "description": "Global Devs est une entreprise technologique mondiale offrant des solutions personnalisées et évolutives pour les entreprises de toutes tailles.",
+        "contactEmail": "contact@globaldevs.com",
+        "contactPhone": "555-555-5555"
+      }
     }
   ]
 }

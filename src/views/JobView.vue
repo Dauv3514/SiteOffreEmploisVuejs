@@ -35,7 +35,7 @@
 
 <template>
     <BackButton />
-    <section v-if="state.job.company" class="bg-black">
+    <section v-if="state.job.company" class="bg-black px-4 py-[30.5px] pb-[160px] overflow-hidden">
       <div class="bg-black container m-auto py-10 px-6">
         <div class="grid grid-cols-1 md:grid-cols-70/30 w-full gap-6">
           <main>

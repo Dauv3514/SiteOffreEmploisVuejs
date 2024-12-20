@@ -22,7 +22,7 @@
 </script>
 
 <template>
-   <section class="bg-[#090a0a] 0 px-4 py-10">
+   <section class="bg-[#090a0a] px-4 py-[30.5px] pb-[160px] overflow-hidden">
     <div class="container-xl lg:container m-auto">
       <h2 class="text-3xl font-bold text-white mb-6 text-center">
         Parcourir les offres d'emplois
